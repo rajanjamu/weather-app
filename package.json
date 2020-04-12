@@ -1,0 +1,22 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Weather app from andrew mead course",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajanjamu/weather-app.git"
+  },
+  "author": "Rajan Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajanjamu/weather-app/issues"
+  },
+  "homepage": "https://github.com/rajanjamu/weather-app#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
